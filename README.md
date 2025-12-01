@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ieunseo/spring/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ieunseo/spring/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/ieunseo/spring/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ieunseo/java-coding-test/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ieunseo/spring/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ieunseo/spring/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ieunseo/spring/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
