@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ieunseo/spring/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ieunseo/java-coding-test/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ieunseo/spring/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ieunseo/java-coding-test/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -56,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ieunseo/spring/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ieunseo/java-coding-test/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ieunseo/java-coding-test/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Math
 |  |
@@ -80,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ieunseo/spring/tree/master/0191-number-of-1-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
