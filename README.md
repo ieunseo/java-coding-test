@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ieunseo/spring/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ieunseo/spring/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ieunseo/spring/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ieunseo/spring/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
