@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ieunseo/spring/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ieunseo/spring/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ieunseo/spring/tree/master/0088-merge-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ieunseo/java-coding-test/tree/main/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ieunseo/java-coding-test/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ieunseo/java-coding-test/tree/main/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
