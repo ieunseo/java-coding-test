@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ieunseo/java-coding-test/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ieunseo/spring/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ieunseo/spring/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ieunseo/spring/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ieunseo/java-coding-test/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ieunseo/java-coding-test/tree/main/0692-top-k-frequent-words/) | Medium |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ieunseo/java-coding-test/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ieunseo/java-coding-test/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
