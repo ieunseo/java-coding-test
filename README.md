@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ieunseo/spring/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ieunseo/spring/tree/master/0088-merge-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ieunseo/java-coding-test/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ieunseo/java-coding-test/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ieunseo/java-coding-test/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ieunseo/java-coding-test/tree/main/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ieunseo/spring/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/ieunseo/java-coding-test/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ieunseo/java-coding-test/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ieunseo/java-coding-test/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ieunseo/java-coding-test/tree/main/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
